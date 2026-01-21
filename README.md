@@ -86,5 +86,5 @@ Design and deliver a **comprehensive sales analytics dashboard** that consolidat
 
 This project demonstrates strong expertise in **Power BI, DAX, data modeling, and business analytics** by transforming raw sales data into a meaningful, decision-ready dashboard. The solution is designed to be **scalable, reusable, and business-friendly**, making it suitable for executive reporting and continuous performance monitoring.
 
-![Summary Dashboard]()
+![Summary Dashboard](https://github.com/SuhasVannal/PowerBI-Sales-Analysis-Dashboard/blob/main/SalesAnalyticsReport.png)
 
